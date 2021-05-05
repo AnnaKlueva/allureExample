@@ -7,8 +7,9 @@
 .idea/
 
 ## Allure results
-.allure-results
+/allure-results/
 
 ## Target folder
-.target
+/target/
+
 
